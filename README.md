@@ -1,4 +1,4 @@
-# Jogo-numero-secreto1
+# Jogo-numero-secreto
 
 <section class="explicacao-jogo">
   <h2>Como funciona o Jogo do Número Secreto</h2>
