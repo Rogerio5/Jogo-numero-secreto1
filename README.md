@@ -12,7 +12,7 @@
   </ul>
 </section>
 
-
+# Linguagens e tecnologias
 
 <img 
     align="left" 
